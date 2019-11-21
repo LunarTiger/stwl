@@ -1,2 +1,2 @@
-<p>Altspace Channel:&nbsp;&nbsp;<a href="https://account.altvr.com/channels/storytime" target="_blank" id="channel">https://tiny.cc/stwl</a></p>
+<p>Altspace Channel:&nbsp;&nbsp;<a href="https://account.altvr.com/channels/storytime" target="_blank" id="channel">account.altvr.com/channels/storytime</a></p>
 <p>Discord Server:&nbsp;&nbsp;<a href="" id="discord">Coming Soon</a></p>
