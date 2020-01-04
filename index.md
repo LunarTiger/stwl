@@ -1,2 +1,2 @@
 <p>Altspace Channel:&nbsp;&nbsp;<a href="https://account.altvr.com/channels/storytime" target="_blank" id="channel">xpan.cc/stwl-altvr</a></p>
-<p>Discord Server:&nbsp;&nbsp;<a href="" id="discord">Coming Soon</a></p>
+<p>Discord Server:&nbsp;&nbsp;<a href="https://discord.gg/DbQF7ze" id="discord">xpan.cc/stwl-discord</a></p>
