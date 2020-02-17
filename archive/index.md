@@ -1,4 +1,4 @@
-<h2>Past Readings Archive</h2>
+<h2>Readings Archive</h2>
 <div class="container"><hr /></div>
 <hr style="height:50px; visibility:hidden;" />
 <p><a href="/stwl/archive/archives/brave_new_world_chapters4-6_2-17-20.m4a">Brave New World (chapters 4-6)</a></p>
