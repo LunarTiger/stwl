@@ -1,3 +1,4 @@
+<hr style="height:50px; visibility:hidden;" />
 <!--Fuck Altspace. Maybe if they could ever get their shit together I may bring my event back to the platform.
 <p>Altspace Channel:&nbsp;&nbsp;<a href="https://account.altvr.com/channels/storytime" target="_blank" id="channel">sdq.st/stwl-altvr</a></p>
 <!---->
