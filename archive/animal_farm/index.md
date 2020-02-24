@@ -8,5 +8,5 @@
 <p><a href="/stwl/archive/animal_farm/book">Listen Now</a></p>
 <p><a href="https://github.com/LunarTiger/stwl/releases/download/animal_farm/animal_farm.m4a">Download Complete Audio</a></p>
 <hr style="height:20px; visibility:hidden;" />
-<p><a href="/stwl/archive/animal_farm/animal_farm_chapter7-finish_1-13-20.m4a">Chapters 7 - End</a></p>
+<p><a href="animal_farm_chapter7-finish_1-13-20.m4a">Chapters 7 - End</a></p>
 <p><a href="animal_farm_chapter1-6_1-10-20.m4a">Chapters 1-6</a></p>
