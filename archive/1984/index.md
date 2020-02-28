@@ -7,6 +7,7 @@
 <hr style="height:20px; visibility:hidden;" />
 <p><a href="book">Listen Now</a></p>
 <p><a href="https://github.com/LunarTiger/stwl/releases/download/1984/1984.m4a">Download Complete Audio</a></p>
+<p><a href="https://github.com/LunarTiger/stwl/releases/download/1984/1984.zip">Download a .zip of this webpage</a></p>
 <hr style="height:20px; visibility:hidden;" />
 <p><a href="1984_chapter3-finish_2-10-20.m4a">Part 3 Chapter 3 - End</a></p>
 <p><a href="1984_chapter10-pt3chapter2_2-6-20.m4a">Part 2 Chapter 10 - Part 3 Chapter 2</a></p>
