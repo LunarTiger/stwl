@@ -1,9 +1,9 @@
 var config = {
-	databaseURL: "https://stwl-event.firebaseio.com/",
+	databaseURL: "https://lunar-home.firebaseio.com/",
 };
 firebase.initializeApp(config);
 var database = firebase.database();
-var event = database.ref('event');
+var event = database.ref('stwl/next-event');
 event.on('value', (function(snapshot) {
 	var eventVal = snapshot.val();
 	if(eventVal){
