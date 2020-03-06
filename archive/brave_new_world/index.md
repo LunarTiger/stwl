@@ -7,7 +7,7 @@
 <hr style="height:20px; visibility:hidden;" />
 <p><a href="book">Listen Now</a></p>
 <p><a href="https://github.com/LunarTiger/stwl/releases/download/brave_new_world/brave_new_world.m4a">Download Complete Audio</a></p>
-<p><a href="https://github.com/LunarTiger/stwl/releases/download/brave_new_world/brave_new_world.zip">Download a .zip of this webpage</a></p>
+<p><a href="https://github.com/LunarTiger/stwl/releases/download/brave_new_world/brave_new_world.zip">Download a .zip of recordigns</a></p>
 <hr style="height:20px; visibility:hidden;" />
 <p><a href="brave_new_world_chapters14-finish_2-27-20.m4a">Chapters 14 - End</a></p>
 <p><a href="brave_new_world_chapters11-13_2-24-20.m4a">Chapters 11-13</a></p>
