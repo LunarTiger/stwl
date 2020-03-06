@@ -10,7 +10,10 @@ state.on('value', (function(snapshot) {
 		var id = database.ref('event-id');
 		id.on('value', (function(snapshot) {
 			var idVal = snapshot.val();
-			document.getElementById('nextEvent').innerHTML = "Next Event:&nbsp;&nbsp;<a href='https://sdq.st/e-"+idVal+"'>sdq.st/e-"+idVal+"</a>"
+			document.getElementById('nextEvent').innerHTML = "Next Event:&nbsp;&nbsp;<a href='https://sdq.st/e-"+idVal+"'>sdq.st/e-"+idVal+"</a>";
 		}));
+	}
+	if(!stateVal){
+		document.getElementById('nextEvent').innerHTML = "";
 	}
 }));
