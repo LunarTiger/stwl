@@ -7,6 +7,7 @@
 <hr style="height:20px; visibility:hidden;" />
 <p id="nextEvent"></p>
 <hr style="height:20px; visibility:hidden;" />
+<p><a href="cure_for_sodomy_chapters16-18_3-23-20.m4a">Chapters 16-18</a></p>
 <p><a href="cure_for_sodomy_chapters13-15_3-16-20.m4a">Chapters 13-15</a></p>
 <p><a href="cure_for_sodomy_chapters9-12_3-12-20.m4a">Chapters 9-12</a></p>
 <p><a href="cure_for_sodomy_chapters5-8_3-5-20.m4a">Chapters 5-8</a></p>
