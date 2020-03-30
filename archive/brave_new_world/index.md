@@ -14,4 +14,3 @@
 <p><a href="brave_new_world_chapters7-10_2-20-20.m4a">Chapters 7-10</a></p>
 <p><a href="brave_new_world_chapters4-6_2-17-20.m4a">Chapters 4-6</a></p>
 <p><a href="brave_new_world_chapters1-3_2-13-20.m4a">Chapters 1-3</a></p>
-<script src="/stwl/assets/js/event.js"></script>
