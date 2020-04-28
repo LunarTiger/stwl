@@ -9,3 +9,6 @@
 <hr style="height:20px; visibility:hidden;" />
 <!--<p><a href="">Chapters 1-x</a></p>-->
 <script src="/stwl/assets/js/event.js"></script>
+<script>
+	document.getElementById('mainbanner').src = "sherlock_holmes.jpg";
+</script>
