@@ -17,4 +17,5 @@
 <p><a href="cure_for_sodomy_chapters1-4_3-2-20.m4a">Chapters 1-4</a></p>
 <script>
 	document.getElementById('mainbanner').src = "cure_for_sodomy.jpg";
+	document.getElementById('mainbanner').style = "height:400px; width:auto;";
 </script>

@@ -11,4 +11,5 @@
 <script src="/stwl/assets/js/event.js"></script>
 <script>
 	document.getElementById('mainbanner').src = "sherlock_holmes.jpg";
+	document.getElementById('mainbanner').style = "height:400px; width:auto;";
 </script>
