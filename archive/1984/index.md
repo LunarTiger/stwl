@@ -16,3 +16,7 @@
 <p><a href="1984_chapter8-pt2chapter2_1-23-20.m4a">Part 1 Chapter 8 - Part 2 Chapter 2</a></p>
 <p><a href="1984_chapter4-7_1-20-20.m4a">Part 1 Chapters 4-7</a></p>
 <p><a href="1984_chapter1-3_1-16-20.m4a">Part 1 Chapters 1-3</a></p>
+<script>
+	document.getElementById('mainbanner').src = "1984.jpg";
+	document.getElementById('mainbanner').style = "height:400px; width:auto;";
+</script>
