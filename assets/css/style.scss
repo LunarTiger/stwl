@@ -2,14 +2,19 @@
 ---
 
 @font-face {
+    font-family: Lexend;
+    src: url("/assets/fonts/lexend_deca/LexendDeca-Regular.ttf");
+}
+
+@font-face {
     font-family: ComicSans;
-    src: url(/comic.ttf);
+    src: url("/assets/fonts/comic_sans/comic.ttf");
 }
 
 /* @import "{{ site.theme }}"; */
 
 body {
-    font-family: ComicSans;
+    font-family: Lexend;
     text-align:center;
     background-image: none;
     background-color: #000000;
@@ -101,7 +106,7 @@ mark {
 
 input[type=text] {
     border: none;
-    border-bottom: 2px solid 00be00;
+    border-bottom: 2px solid #00be00;
     background-color: #000;
     color: #0f0;
 }
@@ -132,7 +137,7 @@ ul {
 }
 
 button {
-    font-family: ComicSans;
+    font-family: Lexend;
     background-color: #000000;
     color: #00FF00;
     padding: 10px;
@@ -194,6 +199,7 @@ nav ul li a:visited {
 
 /* Change the link color on hover */
 nav ul li a:hover {
+    font-family: ComicSans;
     background-color: #003300;
     text-decoration: none;
 }
@@ -205,11 +211,6 @@ nav ul li a:active {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-/* Change the link color to on hover */
-li.navbar a:hover {
-    background-color: #003300;
 }
 
 /*coustom scrollbar*/
