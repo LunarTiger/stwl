@@ -7,7 +7,7 @@
 <hr style="height:20px; visibility:hidden;" />
 <p><a href="book">Listen Now</a></p>
 <p><a href="https://github.com/LunarTiger/stwl/releases/download/cure_for_sodomy/cure_for_sodomy.m4a">Download Complete Audio</a></p>
-<p><a href="https://github.com/LunarTiger/stwl/releases/download/cure_for_sodomy/cure_for_sodomy.zip">Download a .zip of recordigns</a></p>
+<p><a href="https://github.com/LunarTiger/stwl/releases/download/cure_for_sodomy/cure_for_sodomy.zip">Download a .zip of recordings</a></p>
 <!--
 <hr style="height:20px; visibility:hidden;" />
 <p><a href="cure_for_sodomy_chapters19-finish_3-26-20.m4a">Chapters 19 - End</a></p>
