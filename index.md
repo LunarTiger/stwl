@@ -5,6 +5,7 @@
 <p id="nextEvent"></p>
 <p>Discord Server:&nbsp;&nbsp;<a href="https://discord.gg/DbQF7ze" id="discord">sdq.st/stwl-discord</a></p>
 <p>Archived Readings:&nbsp;&nbsp;<a href="/stwl/archive" id="archive">sdq.st/stwl-archive</a></p>
+<p><a href="banter://lunartiger.github.io/stwl" id="banter">Open in Banter</a></p>
 <script src="/stwl/assets/js/event.js"></script>
 <script>
   let locked=false;
