@@ -24,6 +24,6 @@
     }
   });
 </script>
-<div style="display: none;" id="aScene"><a-scene sq-disableteleport sq-spawnpoint="position: 5 0 -25 201;" sq-maxoccupancy="number: 16" sq-clippingplane="near: 0.09; far: 1666;" sq-guestsallowed="false" sq-refreshrate="rate:90" sq-assetbundle="android: https://lunartiger.github.io/stwl/assets/storytime_android?v5; desktop: https://lunartiger.github.io/stwl/assets/storytime_standalonewindows?v5;" embedded>
+<div style="display: none;" id="aScene"><a-scene sq-disableteleport sq-spawnpoint="position: 5 0 -25 201;" sq-maxoccupancy="number: 16" sq-clippingplane="near: 0.09; far: 1666;" sq-guestsallowed="false" sq-refreshrate="rate:90" sq-assetbundle="android: https://lunartiger.github.io/stwl/assets/storytime_android?v6; desktop: https://lunartiger.github.io/stwl/assets/storytime_standalonewindows?v6;" embedded>
   <a-box sq-collider sq-interactable lock-unlock color="#000" position="-6.08 6.14 -11.89" rotation="0 0 0" scale="0.3 0.3 0" material="transparent: true; opacity: 0"></a-box>
 </a-scene></div>
