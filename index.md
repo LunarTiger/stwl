@@ -27,4 +27,5 @@
 </script>
 <div style="display: none;" id="aScene"><a-scene sq-disableteleport sq-spawnpoint="position: 5 0 -25 201;" sq-maxoccupancy="number: 12" sq-clippingplane="near: 0.09; far: 1666;" sq-guestsallowed="false" sq-friendpositionjoinallowed="false" sq-devtoolsenabled="false" sq-portalsenabled="false" sq-refreshrate="rate:90" sq-assetbundle="android: https://lunartiger.github.io/stwl/assets/storytime_android?v6; desktop: https://lunartiger.github.io/stwl/assets/storytime_standalonewindows?v6;" embedded>
   <a-box sq-collider sq-interactable lock-unlock color="#000" position="-6.08 6.14 -11.89" rotation="0 0 0" scale="0.3 0.3 0" material="transparent: true; opacity: 0"></a-box>
+  <script src="https://sq-community.glitch.me/gotoButton.js" position="-8.25 1 -9.6" scale="0.5"></script>
 </a-scene></div>
