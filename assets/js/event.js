@@ -3,7 +3,10 @@ var config = {
 };
 firebase.initializeApp(config);
 var database = firebase.database();
-var event = database.ref('stwl/next-event');
+//var event = database.ref('stwl/next-event');
+var book_sat = database.ref('stwl/book_saturday');
+var book_sun = database.ref('stwl/book_sunday');
+/*
 event.on('value', (function(snapshot) {
 	var eventVal = snapshot.val();
 	if(eventVal){
@@ -11,5 +14,25 @@ event.on('value', (function(snapshot) {
 	}
 	if(!eventVal){
 		document.getElementById('nextEvent').innerHTML = "No event scheduled";
+	}
+}));
+*/
+book_sat.on('value', (function(snapshot) {
+	var satVal = snapshot.val();
+	if(satVal){
+		document.getElementById('bookSat').innerHTML = "Saturday's Book Reading:&nbsp; "+satVal;
+	}
+	if(!satVal){
+		document.getElementById('bookSat').innerHTML = "No event scheduled";
+	}
+}));
+
+book_sun.on('value', (function(snapshot) {
+	var sunVal = snapshot.val();
+	if(eventVal){
+		document.getElementById('bookSun').innerHTML = "Sunday's Book Reading:&nbsp; "+sunVal;
+	}
+	if(!satVal){
+		document.getElementById('bookSun').innerHTML = "No event scheduled";
 	}
 }));
