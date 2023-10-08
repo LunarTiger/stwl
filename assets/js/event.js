@@ -29,10 +29,10 @@ book_sat.on('value', (function(snapshot) {
 
 book_sun.on('value', (function(snapshot) {
 	var sunVal = snapshot.val();
-	if(eventVal){
+	if(sunVal){
 		document.getElementById('bookSun').innerHTML = "Sunday's Book Reading:&nbsp; "+sunVal;
 	}
-	if(!satVal){
+	if(!sunVal){
 		document.getElementById('bookSun').innerHTML = "No event scheduled";
 	}
 }));

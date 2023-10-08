@@ -5,7 +5,7 @@
 	<div class="container"><hr /></div>
 </div>
 <hr style="height:20px; visibility:hidden;" />
-<p id="nextEvent"></p>
+<!--<p id="nextEvent"></p>-->
 <hr style="height:20px; visibility:hidden;" />
 <h4>A Study in Scarlet</h4>
 <p><a href="sherlock_holmes_chapters1-2_5-4-20.m4a">Chapters 1-2</a></p>
